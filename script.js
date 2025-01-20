@@ -11,7 +11,12 @@ let kodFigurek = "";
 let i=0;
 while (i<10) {
   i++;
-  kodFigurek += "<div>" + pat + mat + "</div>";
+  if (i % 2 == 0) {
+    kodFigurek += "<div>" + mat + pat + "</div>";
+  }
+  else {
+    kodFigurek += "<div>" + pat + mat + "</div>";
+  }
 }
 figurky.innerHTML = kodFigurek; // vloží kód řady obrázků, kterou požadujeme vykreslit
 pocetPat.innerText = i;         // vypíše počet vykreslených figurek Pata (všech deset)

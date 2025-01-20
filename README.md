@@ -1,6 +1,6 @@
 Příklad ke stažení obsahuje webovou stránku, do které se pomocí Javascriptu nakreslí deset obrázků figurky Pat, kterou znáš z animovaného seriálu Pat a Mat. Tyto figurky budou umístěné pod sebou.
 
-![image](https://github.com/user-attachments/assets/bf7f52c7-d174-419a-bbca-3c561522d540)
+![image](https://github.com/user-attachments/assets/bf7f52c7-d174-419a-bbca-3c561522d540);
 
 
 **Příklad dále modifikuj:**

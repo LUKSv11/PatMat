@@ -1,4 +1,4 @@
-// odkazy na HTML objekty
+// odkazy na HTML objekty.
 let figurky = document.getElementById("figurky");
 let pocetPat = document.getElementById("pocetPat");
 let pocetMat = document.getElementById("pocetMat");
